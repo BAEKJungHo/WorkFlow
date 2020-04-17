@@ -1,6 +1,7 @@
 # yona
 
 - https://yona.io/
+- https://github.com/yona-projects/yona
 - 오픈소스(무료)
 - 언어 : Java
 - 네이버 개발자들이 만든 이슈 트래커. 네이버에서 내부용으로 사용하던 버전을 수정 공개한 것이다. 네이버 개발자들이 만들었기에 한글 처리가 매끈하다.
