@@ -23,6 +23,10 @@ team 요금제를 쓰는것이 가장 좋은 선택이나 인당 "9$" 라는 꽤
 
 하지만 최근 2020년 4월 14일 부터 팀 단위 요금제는 월 9달러에서 4달러로 인하 한다고 함
 
+## 깃허브 한글화
+
+> https://chrome.google.com/webstore/detail/github-%ED%95%9C%EA%B8%80%ED%99%94/phhgannnkapemfnciphmbpenaflbngmm?hl=ko
+
 ## References.
 
 > https://okky.kr/article/702245
